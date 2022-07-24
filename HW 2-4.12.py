@@ -59,7 +59,7 @@ def print_positions(tortoise, hare):
 
     Goes through all 70 squares, printing Hare if hare 
     on position and Tortoise for tortoise"""
-
+# You need to not let the print statements go to next line -3
     for count in range(1, RACE_END + 1):
         if count == tortoise and count == hare:
             print('OUCH!!!')
