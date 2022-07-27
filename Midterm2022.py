@@ -4,7 +4,7 @@ Created on Sat Jul 23 21:24:34 2022
 
 @author: jense
 """
-
+# You didn't import the random package    -5
 one = 1
 two = 2
 three = 3
