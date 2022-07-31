@@ -10,6 +10,7 @@ numberdict = {1: 'one', 3: 'three', 12: 'twelve', 43: 'fourty-three', 100: \
     
 amount = input('Enter a dollar amount less than 1000.00: ')
 dollars, cents = amount.split('.')
+# Either prompt for cents or perform error checking   -2
 dollars = int(dollars)
 cents = int(cents)
 amount_in_words = []

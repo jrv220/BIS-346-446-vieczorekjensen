@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-
+# This won't produce any output when run in its entirety  -3
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 # a
