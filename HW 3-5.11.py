@@ -20,6 +20,7 @@ summary = summarize_letters(str())
 
 
 for char, count in summary:
+    # WOn't run becuase of object type   -5
     print(f'{char} appears {count} times in letters')        
         
         
